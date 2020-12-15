@@ -48,8 +48,7 @@ examples/example_null/example_null
 examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 
-# Hazel-specific
-# Directories
+# Ember specific build directories
 bin/
 bin-int/
 
